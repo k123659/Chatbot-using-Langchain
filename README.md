@@ -18,7 +18,7 @@ Clone the Repository
 Open your terminal or command prompt.
 Navigate to the directory where you want to install the project.
 Run the following command to clone the GitHub repository:
-git clone https://github.com/KalyanMurapaka45/Chatbot-Using-Langchain.git
+git clone https://github.com/k123659/Chatbot-using-Langchain
 Create a Virtual Environment (Optional but recommended)
 
 It's a good practice to create a virtual environment to manage project dependencies. Run the following command:
